@@ -1,0 +1,32 @@
+/* Imports */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+/* Main Code */
+
+.blog-hide {
+    color: #868e96!important;
+}
+
+.blog-post {
+ font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+
+}
+
+.circular {
+ border-radius: 50%;
+}
+
+.dimension {
+
+}
+
+.blog-header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #4fc6d6;
+ }
